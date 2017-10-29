@@ -1,0 +1,387 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://relishapp.com/rspec/rspec-core/v/3-7/docs/subject/explicit-subject
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - relishapp.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Sun, 29 Oct 2017 01:10:53 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - __cfduid=d709a3933eed454a8b9c634c081cacb8e1509239452; expires=Mon, 29-Oct-18
+        01:10:52 GMT; path=/; domain=.relishapp.com; HttpOnly
+      - _relish_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJWYxOGI3ZjU2Mjc3ODljYjMwZGRhMmE4Mzc4ZjAwYmMzBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMWhvd0F3Z2lxQTBxaXBDSXhvUTZvZTJhbmlPd1lORHpoMG5RK2VUbWhDd0k9BjsARg%3D%3D--3041f9a792f2e6e6003ce5711f9fb6998ffc7649;
+        path=/; HttpOnly
+      Status:
+      - 200 OK
+      X-Ua-Compatible:
+      - IE=Edge,chrome=1
+      Cache-Control:
+      - max-age=0, private, must-revalidate
+      X-Request-Id:
+      - b2bb1aa0-657e-4b86-89c8-ffd539d8c963
+      X-Runtime:
+      - '0.349608'
+      X-Rack-Cache:
+      - miss
+      Via:
+      - 1.1 vegur
+      Server:
+      - cloudflare-nginx
+      Cf-Ray:
+      - 3b5241f3b88350b6-MIA
+    body:
+      encoding: ASCII-8BIT
+      string: "<!DOCTYPE html>\n<html>\n<head><script type=\"text/javascript\">var
+        NREUMQ=NREUMQ||[];NREUMQ.push([\"mark\",\"firstbyte\",new Date().getTime()]);</script>\n<title>Explicit
+        Subject - Subject - RSpec Core - RSpec - Relish</title>\n<meta charset='UTF-8'>\n<meta
+        content='r0hfWwIh-WiLHCkoRjWYyZjH1pEIYx_TzAciqmZ4OeM' name='google-site-verification'>\n<meta
+        content='Relish helps your team get the most from Behaviour Driven Development.
+        Publish, browse, search, and organize your Cucumber features on the web.'
+        name='description'>\n<meta content=\"authenticity_token\" name=\"csrf-param\"
+        />\n<meta content=\"howAwgiqA0qipCIxoQ6oe2aniOwYNDzh0nQ+eTmhCwI=\" name=\"csrf-token\"
+        />\n<link href=\"https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=latin,cyrillic-ext\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/assets/application-91879bcc26c3111ffaee524aeb289ff2.css\"
+        media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/assets/print-5aba0d913016cc0e42137867399ba034.css\"
+        media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<script src=\"/assets/application-e2bf4a1fc0cc7318cc70f087fb727d77.js\"
+        type=\"text/javascript\"></script>\n</head>\n<body id='body'>\n<section class='visitor
+        wrapper full-width header clearfix'>\n<header class='platform-header rel clearfix'>\n<h1
+        class='left'>\n<a href=\"/\"><img alt=\"Logo: Relish\" height=\"39\" src=\"/assets/relish-logo-visitor-b4a4aaae2adde2e82bf2152054152137.png\"
+        width=\"127\" />\n</a></h1>\n<ol class='user-menu no-bullets in-line'>\n<li><a
+        href=\"/users/sign_up\">Sign up</a></li>\n<li><a href=\"/users/sign_in\">Sign
+        in</a></li>\n</ol>\n<nav class='left clearfix'>\n<ul>\n<li class='home'>\n<a
+        href=\"http://relishapp.com/\" class=\"home-icon sprite icon-inline\"><span
+        class='accessible-hide'>\nHome\n</span>\n</a></li>\n<li><a href=\"/explore\">Public
+        projects</a></li>\n<li><a href=\"/plans-and-pricing\">Plans &amp; pricing</a></li>\n</ul>\n</nav>\n</header>\n</section>\n<section
+        class='main full-width bg-sprite'>\n\n<div class='inner clearfix rel'>\n<header>\n<hgroup>\n<h1
+        class='project'>\n<a href=\"/rspec/rspec-core/v/3-7\">Project:\nRSpec Core
+        3.7\n</a></h1>\n<h2 class='publisher-link'>\n<a href=\"/rspec/\">Publisher:
+        RSpec</a>\n</h2>\n</hgroup>\n<ul class='project-menu icon-menu no-bullets
+        in-line'>\n<li class='version-menu select-menu add-hover round-corners'>\n<p
+        class='trigger sprite-bg round-corners'>\nChange version\n<span class='sprite
+        icon small-arrow'></span>\n</p>\n<ol class='options versions no-bullets'>\n<li
+        class='current'>\n<a href=\"/rspec/rspec-core/v/3-7/docs/subject/explicit-subject\">3.7</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-6/docs/subject/explicit-subject\">3.6</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-5/docs/subject/explicit-subject\">3.5</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-4/docs/subject/explicit-subject\">3.4</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-3/docs/subject/explicit-subject\">3.3</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-2/docs/subject/explicit-subject\">3.2</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-1/docs/subject/explicit-subject\">3.1</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-0/docs/subject/explicit-subject\">3.0</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-99/docs/subject/explicit-subject\">2.99</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-14/docs/subject/explicit-subject\">2.14</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-13/docs/subject/explicit-subject\">2.13</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-12/docs/subject/explicit-subject\">2.12</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-11/docs/subject/explicit-subject\">2.11</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-10/docs/subject/explicit-subject\">2.10</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-9/docs/subject/explicit-subject\">2.9</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-8/docs/subject/explicit-subject\">2.8</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-7/docs/subject/explicit-subject\">2.7</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-6/docs/subject/explicit-subject\">2.6</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-5/docs/subject/explicit-subject\">2.5</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-4/docs/subject/explicit-subject\">2.4</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-3/docs/subject/explicit-subject\">2.3</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-2/docs/subject/explicit-subject\">2.2</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-1/docs/subject/explicit-subject\">2.1</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/2-0/docs/subject/explicit-subject\">2.0</a>\n</li>\n</ol>\n</li>\n\n</ul>\n</header>\n\n<nav
+        class='project-view'>\n<ol class='tabs no-bullets in-line'>\n<li class='current'>\n<a
+        href=\"/rspec/rspec-core/v/3-7\">Browse documentation</a>\n</li>\n<li class='search'>\n<form
+        action='/rspec/rspec-core/v/3-7/search' class='search' id='search'>\n<label
+        class='accessible-hide' for='keyword-search'>\nKeyword search\n</label>\n<input
+        autocomplete='off' class='left no-margin' id='keyword-search' name='query'
+        required='required' type='text'>\n<input class='accessible-hide' type='submit'
+        value='Go'>\n</form>\n\n</li>\n</ol>\n</nav>\n</div>\n<div class='body-wrapper'>\n<section
+        class='inner clearfix topic-view with-nav'>\n<div class='body'>\n<h1>Explicit
+        Subject</h1>\n<div class='description'>\n  <p>Use <code>subject</code> in
+        the group scope to explicitly define the value that is returned by the<br>\n<code>subject</code>
+        method in the example scope.</p>\n\n<p>Note that while the examples below
+        demonstrate how the <code>subject</code> helper can be used<br>\nas a user-facing
+        concept, we recommend that you reserve it for support of custom<br>\nmatchers
+        and/or extension libraries that hide its use from examples.</p>\n\n<p>A named
+        <code>subject</code> improves on the explicit <code>subject</code> by assigning
+        it a contextually<br>\nsemantic name. Since a named <code>subject</code> is
+        an explicit <code>subject</code>, it still defines the value<br>\nthat is
+        returned by the <code>subject</code> method in the example scope. However,
+        it defines an<br>\nadditional helper method with the provided name. This helper
+        method is memoized.<br>\nThe value is cached across multiple calls in the
+        same example but not across examples.</p>\n\n<p>We recommend using the named
+        helper method over <code>subject</code> in examples.</p>\n\n<p>For more information
+        about declaring a <code>subject</code> see the <a href=\"http://rubydoc.info/github/rspec/rspec-core/RSpec/Core/MemoizedHelpers/ClassMethods#subject-instance_method\">API
+        docs</a>.</p>\n</div>\n<dl class='scenario-list'>\n  <dt class='scenario-list'>\n
+        \   Scenarios\n  </dt>\n  <dd>\n    <ol class='no-bullets anchorlink-list'>\n
+        \     <li>\n        <span class='down-arrow sprite icon'></span>\n        <a
+        href='#a-`subject`-can-be-defined-and-used-in-the-top-level-group-scope'>\n
+        \         A `subject` can be defined and used in the top level group scope\n
+        \       </a>\n      </li>\n      <li>\n        <span class='down-arrow sprite
+        icon'></span>\n        <a href='#the-`subject`-defined-in-an-outer-group-is-available-to-inner-groups'>\n
+        \         The `subject` defined in an outer group is available to inner groups\n
+        \       </a>\n      </li>\n      <li>\n        <span class='down-arrow sprite
+        icon'></span>\n        <a href='#the-`subject`-is-memoized-within-an-example-but-not-across-examples'>\n
+        \         The `subject` is memoized within an example but not across examples\n
+        \       </a>\n      </li>\n      <li>\n        <span class='down-arrow sprite
+        icon'></span>\n        <a href='#the-`subject`-is-available-in-`before`-hooks'>\n
+        \         The `subject` is available in `before` hooks\n        </a>\n      </li>\n
+        \     <li>\n        <span class='down-arrow sprite icon'></span>\n        <a
+        href='#helper-methods-can-be-invoked-from-a-`subject`-definition-block'>\n
+        \         Helper methods can be invoked from a `subject` definition block\n
+        \       </a>\n      </li>\n      <li>\n        <span class='down-arrow sprite
+        icon'></span>\n        <a href='#use-the-`subject!`-bang-method-to-call-the-definition-block-before-the-example'>\n
+        \         Use the `subject!` bang method to call the definition block before
+        the example\n        </a>\n      </li>\n      <li>\n        <span class='down-arrow
+        sprite icon'></span>\n        <a href='#use-`subject(:name)`-to-define-a-memoized-helper-method'>\n
+        \         Use `subject(:name)` to define a memoized helper method\n        </a>\n
+        \     </li>\n      <li>\n        <span class='down-arrow sprite icon'></span>\n
+        \       <a href='#use-`subject!(:name)`-to-define-a-helper-method-called-before-the-example'>\n
+        \         Use `subject!(:name)` to define a helper method called before the
+        example\n        </a>\n      </li>\n    </ol>\n    <dl class='scenarios'>\n
+        \     <dt class='scenario' id='a-`subject`-can-be-defined-and-used-in-the-top-level-group-scope'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#a-`subject`-can-be-defined-and-used-in-the-top-level-group-scope'>\n
+        \         A `subject` can be defined and used in the top level group scope\n
+        \       </a>\n      </dt>\n      <dd class='scenario-steps'>\n        <dl
+        class='steps-list'>\n          <dt class='step'>\n            Given\n          </dt>\n
+        \         <dd class='step'>\n            a file named &quot;top_level_subject_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe
+        Array, &quot;with some elements&quot; do&#x000A;  subject { [1, 2, 3] }&#x000A;&#x000A;
+        \ it &quot;has the prescribed elements&quot; do&#x000A;    expect(subject).to
+        eq([1, 2, 3])&#x000A;  end&#x000A;end</code></pre></div>\n          </dd>\n
+        \         <dt class='step'>\n            When\n          </dt>\n          <dd
+        class='step'>\n            I run <code >rspec top_level_subject_spec.rb</code>\n
+        \           \n          </dd>\n          <dt class='step'>\n            Then\n
+        \         </dt>\n          <dd class='step'>\n            the examples should
+        all pass\n            \n          </dd>\n        </dl>\n      </dd>\n      <dt
+        class='scenario' id='the-`subject`-defined-in-an-outer-group-is-available-to-inner-groups'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#the-`subject`-defined-in-an-outer-group-is-available-to-inner-groups'>\n
+        \         The `subject` defined in an outer group is available to inner groups\n
+        \       </a>\n      </dt>\n      <dd class='scenario-steps'>\n        <dl
+        class='steps-list'>\n          <dt class='step'>\n            Given\n          </dt>\n
+        \         <dd class='step'>\n            a file named &quot;nested_subject_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe
+        Array do&#x000A;  subject { [1, 2, 3] }&#x000A;&#x000A;  describe &quot;has
+        some elements&quot; do&#x000A;    it &quot;which are the prescribed elements&quot;
+        do&#x000A;      expect(subject).to eq([1, 2, 3])&#x000A;    end&#x000A;  end&#x000A;end</code></pre></div>\n
+        \         </dd>\n          <dt class='step'>\n            When\n          </dt>\n
+        \         <dd class='step'>\n            I run <code >rspec nested_subject_spec.rb</code>\n
+        \           \n          </dd>\n          <dt class='step'>\n            Then\n
+        \         </dt>\n          <dd class='step'>\n            the examples should
+        all pass\n            \n          </dd>\n        </dl>\n      </dd>\n      <dt
+        class='scenario' id='the-`subject`-is-memoized-within-an-example-but-not-across-examples'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#the-`subject`-is-memoized-within-an-example-but-not-across-examples'>\n
+        \         The `subject` is memoized within an example but not across examples\n
+        \       </a>\n      </dt>\n      <dd class='scenario-steps'>\n        <div
+        class='description'>\n          <p><strong>Note:</strong> This scenario shows
+        mutation being performed in a <code>subject</code> definition block. This<br>\nbehavior
+        is generally discouraged as it makes it more difficult to understand the specs.<br>\nThis
+        is technique is used simply as a tool to demonstrate how the memoization occurs.</p>\n
+        \       </div>\n        <dl class='steps-list'>\n          <dt class='step'>\n
+        \           Given\n          </dt>\n          <dd class='step'>\n            a
+        file named &quot;memoized_subject_spec.rb&quot; with:\n            <div class=\"pre\"><pre
+        ><code class=\"ruby\">RSpec.describe Array do&#x000A;  # This uses a context
+        local variable. As you can see from the&#x000A;  # specs, it can mutate across
+        examples. Use with caution.&#x000A;  element_list = [1, 2, 3]&#x000A;&#x000A;
+        \ subject { element_list.pop }&#x000A;&#x000A;  it &quot;is memoized across
+        calls (i.e. the block is invoked once)&quot; do&#x000A;    expect {&#x000A;
+        \     3.times { subject }&#x000A;    }.to change{ element_list }.from([1,
+        2, 3]).to([1, 2])&#x000A;    expect(subject).to eq(3)&#x000A;  end&#x000A;&#x000A;
+        \ it &quot;is not memoized across examples&quot; do&#x000A;    expect{ subject
+        }.to change{ element_list }.from([1, 2]).to([1])&#x000A;    expect(subject).to
+        eq(2)&#x000A;  end&#x000A;end</code></pre></div>\n          </dd>\n          <dt
+        class='step'>\n            When\n          </dt>\n          <dd class='step'>\n
+        \           I run <code >rspec memoized_subject_spec.rb</code>\n            \n
+        \         </dd>\n          <dt class='step'>\n            Then\n          </dt>\n
+        \         <dd class='step'>\n            the examples should all pass\n            \n
+        \         </dd>\n        </dl>\n      </dd>\n      <dt class='scenario' id='the-`subject`-is-available-in-`before`-hooks'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#the-`subject`-is-available-in-`before`-hooks'>\n
+        \         The `subject` is available in `before` hooks\n        </a>\n      </dt>\n
+        \     <dd class='scenario-steps'>\n        <dl class='steps-list'>\n          <dt
+        class='step'>\n            Given\n          </dt>\n          <dd class='step'>\n
+        \           a file named &quot;before_hook_subject_spec.rb&quot; with:\n            <div
+        class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe Array, &quot;with
+        some elements&quot; do&#x000A;  subject { [] }&#x000A;&#x000A;  before { subject.push(1,
+        2, 3) }&#x000A;&#x000A;  it &quot;has the prescribed elements&quot; do&#x000A;
+        \   expect(subject).to eq([1, 2, 3])&#x000A;  end&#x000A;end</code></pre></div>\n
+        \         </dd>\n          <dt class='step'>\n            When\n          </dt>\n
+        \         <dd class='step'>\n            I run <code >rspec before_hook_subject_spec.rb</code>\n
+        \           \n          </dd>\n          <dt class='step'>\n            Then\n
+        \         </dt>\n          <dd class='step'>\n            the examples should
+        all pass\n            \n          </dd>\n        </dl>\n      </dd>\n      <dt
+        class='scenario' id='helper-methods-can-be-invoked-from-a-`subject`-definition-block'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#helper-methods-can-be-invoked-from-a-`subject`-definition-block'>\n
+        \         Helper methods can be invoked from a `subject` definition block\n
+        \       </a>\n      </dt>\n      <dd class='scenario-steps'>\n        <dl
+        class='steps-list'>\n          <dt class='step'>\n            Given\n          </dt>\n
+        \         <dd class='step'>\n            a file named &quot;helper_subject_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe
+        Array, &quot;with some elements&quot; do&#x000A;  def prepared_array&#x000A;
+        \   [1, 2, 3]&#x000A;  end&#x000A;&#x000A;  subject { prepared_array }&#x000A;&#x000A;
+        \ it &quot;has the prescribed elements&quot; do&#x000A;    expect(subject).to
+        eq([1, 2, 3])&#x000A;  end&#x000A;end</code></pre></div>\n          </dd>\n
+        \         <dt class='step'>\n            When\n          </dt>\n          <dd
+        class='step'>\n            I run <code >rspec helper_subject_spec.rb</code>\n
+        \           \n          </dd>\n          <dt class='step'>\n            Then\n
+        \         </dt>\n          <dd class='step'>\n            the examples should
+        all pass\n            \n          </dd>\n        </dl>\n      </dd>\n      <dt
+        class='scenario' id='use-the-`subject!`-bang-method-to-call-the-definition-block-before-the-example'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#use-the-`subject!`-bang-method-to-call-the-definition-block-before-the-example'>\n
+        \         Use the `subject!` bang method to call the definition block before
+        the example\n        </a>\n      </dt>\n      <dd class='scenario-steps'>\n
+        \       <dl class='steps-list'>\n          <dt class='step'>\n            Given\n
+        \         </dt>\n          <dd class='step'>\n            a file named &quot;subject_bang_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe
+        &quot;eager loading with subject!&quot; do&#x000A;  subject! { element_list.push(99)
+        }&#x000A;&#x000A;  let(:element_list) { [1, 2, 3] }&#x000A;&#x000A;  it &quot;calls
+        the definition block before the example&quot; do&#x000A;    element_list.push(5)&#x000A;
+        \   expect(element_list).to eq([1, 2, 3, 99, 5])&#x000A;  end&#x000A;end</code></pre></div>\n
+        \         </dd>\n          <dt class='step'>\n            When\n          </dt>\n
+        \         <dd class='step'>\n            I run <code >rspec subject_bang_spec.rb</code>\n
+        \           \n          </dd>\n          <dt class='step'>\n            Then\n
+        \         </dt>\n          <dd class='step'>\n            the examples should
+        all pass\n            \n          </dd>\n        </dl>\n      </dd>\n      <dt
+        class='scenario' id='use-`subject(:name)`-to-define-a-memoized-helper-method'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#use-`subject(:name)`-to-define-a-memoized-helper-method'>\n
+        \         Use `subject(:name)` to define a memoized helper method\n        </a>\n
+        \     </dt>\n      <dd class='scenario-steps'>\n        <div class='description'>\n
+        \         <p><strong>Note:</strong> While a global variable is used in the
+        examples below, this behavior is strongly<br>\n          discouraged in actual
+        specs. It is used here simply to demonstrate the value will be<br>\n          cached
+        across multiple calls in the same example but not across examples.</p>\n        </div>\n
+        \       <dl class='steps-list'>\n          <dt class='step'>\n            Given\n
+        \         </dt>\n          <dd class='step'>\n            a file named &quot;named_subject_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">$count =
+        0&#x000A;&#x000A;RSpec.describe &quot;named subject&quot; do&#x000A;  subject(:global_count)
+        { $count += 1 }&#x000A;&#x000A;  it &quot;is memoized across calls (i.e. the
+        block is invoked once)&quot; do&#x000A;    expect {&#x000A;      2.times {
+        global_count }&#x000A;    }.not_to change{ global_count }.from(1)&#x000A;
+        \ end&#x000A;&#x000A;  it &quot;is not cached across examples&quot; do&#x000A;
+        \   expect(global_count).to eq(2)&#x000A;  end&#x000A;&#x000A;  it &quot;is
+        still available using the subject method&quot; do&#x000A;    expect(subject).to
+        eq(3)&#x000A;  end&#x000A;&#x000A;  it &quot;works with the one-liner syntax&quot;
+        do&#x000A;    is_expected.to eq(4)&#x000A;  end&#x000A;&#x000A;  it &quot;the
+        subject and named helpers return the same object&quot; do&#x000A;    expect(global_count).to
+        be(subject)&#x000A;  end&#x000A;&#x000A;  it &quot;is set to the block return
+        value (i.e. the global $count)&quot; do&#x000A;    expect(global_count).to
+        be($count)&#x000A;  end&#x000A;end</code></pre></div>\n          </dd>\n          <dt
+        class='step'>\n            When\n          </dt>\n          <dd class='step'>\n
+        \           I run <code >rspec named_subject_spec.rb</code>\n            \n
+        \         </dd>\n          <dt class='step'>\n            Then\n          </dt>\n
+        \         <dd class='step'>\n            the examples should all pass\n            \n
+        \         </dd>\n        </dl>\n      </dd>\n      <dt class='scenario' id='use-`subject!(:name)`-to-define-a-helper-method-called-before-the-example'>\n
+        \       <span class='scenario-bullet sprite icon'></span>\n        <a href='#use-`subject!(:name)`-to-define-a-helper-method-called-before-the-example'>\n
+        \         Use `subject!(:name)` to define a helper method called before the
+        example\n        </a>\n      </dt>\n      <dd class='scenario-steps'>\n        <dl
+        class='steps-list'>\n          <dt class='step'>\n            Given\n          </dt>\n
+        \         <dd class='step'>\n            a file named &quot;named_subject_bang_spec.rb&quot;
+        with:\n            <div class=\"pre\"><pre ><code class=\"ruby\">RSpec.describe
+        &quot;eager loading using a named subject!&quot; do&#x000A;  subject!(:updated_list)
+        { element_list.push(99) }&#x000A;&#x000A;  let(:element_list) { [1, 2, 3]
+        }&#x000A;&#x000A;  it &quot;calls the definition block before the example&quot;
+        do&#x000A;    element_list.push(5)&#x000A;    expect(element_list).to eq([1,
+        2, 3, 99, 5])&#x000A;    expect(updated_list).to be(element_list)&#x000A;
+        \ end&#x000A;end</code></pre></div>\n          </dd>\n          <dt class='step'>\n
+        \           When\n          </dt>\n          <dd class='step'>\n            I
+        run <code >rspec named_subject_bang_spec.rb</code>\n            \n          </dd>\n
+        \         <dt class='step'>\n            Then\n          </dt>\n          <dd
+        class='step'>\n            the examples should all pass\n            \n          </dd>\n
+        \       </dl>\n      </dd>\n    </dl>\n  </dd>\n</dl>\n\n<div class='last-updated'>\n<hr
+        class='hide'>\n<p>\nLast published about 1 hour ago by myronmarston.\n</p>\n</div>\n<aside>\n<ol
+        class='document-menu icon-menu no-bullets in-line'>\n<li class='add-hover'>\n<p
+        class='tool-tip'>\nPrint this topic\n<span class='sprite icon tool-tip-arrow'></span>\n</p>\n<a
+        href=\"javascript:window.print()\" class=\"sprite icon print\"><span>\nPrint\n</span>\n</a></li>\n</ol>\n</aside>\n</div>\n<nav>\n<ol
+        class='topics'>\n<li>\n<a href=\"/rspec/rspec-core/v/3-7/docs/changelog\">Changelog</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/example-groups\">Example groups</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/command-line\">Command line</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/hooks\">Hooks</a>\n</li>\n<li class='current'>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/subject\">Subject</a>\n<ol>\n<li>\n<span
+        class='topic-arrow sprite icon'></span>\n<a href=\"/rspec/rspec-core/v/3-7/docs/subject/implicitly-defined-subject\">implicitly
+        defined subject</a>\n</li>\n<li class='current'>\n<span class='topic-bullet
+        sprite icon'></span>\n<a href=\"/rspec/rspec-core/v/3-7/docs/subject/explicit-subject\">Explicit
+        Subject</a>\n</li>\n<li>\n<span class='topic-arrow sprite icon'></span>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/subject/one-liner-syntax\">One-liner syntax</a>\n</li>\n</ol>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/helper-methods\">Helper methods</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/metadata\">Metadata</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/filtering\">Filtering</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/configuration\">Configuration</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/expectation-framework-integration\">Expectation
+        framework integration</a>\n</li>\n<li>\n<a href=\"/rspec/rspec-core/v/3-7/docs/mock-framework-integration\">Mock
+        framework integration</a>\n</li>\n<li>\n<a href=\"/rspec/rspec-core/v/3-7/docs/formatters\">Formatters</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/spec-files\">Spec files</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/use-rspec-core-without-rspec-mocks-or-rspec-expectations\">Use
+        rspec-core without rspec-mocks or rspec-expectations</a>\n</li>\n<li>\n<a
+        href=\"/rspec/rspec-core/v/3-7/docs/pending-and-skipped-examples\">Pending
+        and skipped examples</a>\n</li>\n<li>\n<a href=\"/rspec/rspec-core/v/3-7/docs/running-specs-multiple-times-with-different-runner-options-in-the-same-process\">Running
+        specs multiple times with different runner options in the same process</a>\n</li>\n</ol>\n</nav>\n\n</section>\n<div
+        class='collaborators hide-with-js modal inner' id='collaborators'>\n<div class='modal-inner'>\n<section>\n<span
+        class='rel block right'>\n<span class='fixed'>\n<a class='icon sprite modal-close'>\nClose\n</a>\n</span>\n</span>\n\n<article
+        class='tip'>\n<p>To add a collaborator to this project you will need to use
+        the Relish gem to add the collaborator via a terminal command. Soon you'll
+        be able to also add collaborators here!</p>\n<a href=\"/relish/relish/docs/client-gem/add-a-collaborator\">More
+        about adding a collaborator</a>\n</article>\n</section>\n</div>\n</div>\n\n<div
+        class='settings hide-with-js modal inner clearfix' id='settings'>\n<div class='modal-inner'>\n<section>\n<span
+        class='rel block right'>\n<span class='fixed'>\n<a class='icon sprite modal-close'>\nClose\n</a>\n</span>\n</span>\n\n<div
+        class='flash-container'></div>\n<h2>\nRSpec Core settings\n</h2>\n<dl>\n<dt>\nVisibility\n</dt>\n<dd>\n<span
+        class='sprite icon public-small'></span>\nPublic\n</dd>\n</dl>\n</section>\n</div>\n</div>\n\n</div>\n\n</section>\n<div
+        class='footer-wrapper full-width'>\n<footer class='inner rel'>\n<ul class='in-line
+        no-padding clearfix'>\n<li><a href=\"http://relishapp.com/\">Home</a></li>\n<li><a
+        href=\"/privacy-policy\">Privacy policy</a></li>\n<li><a href=\"/terms-of-use\">Terms
+        of use</a></li>\n<li><a href=\"/terms-of-service\">Terms of service</a></li>\n<li><a
+        href=\"/cdn-cgi/l/email-protection#40333530302f32340032252c2933282130306e232f2d\">Contact
+        us</a></li>\n<li><a href=\"http://pragprog.com/book/hwcuc/the-cucumber-book\">Buy
+        the book</a></li>\n<li><a href=\"http://cucumber.io/training\">Learn BDD</a></li>\n</ul>\n<p>\n&copy;\n2017\n<a
+        href=\"http://cucumber.io/\">Cucumber Limited</a>.\n<span class='block'>\nWe
+        claim no intellectual property rights over the material provided to this service.\n</span>\n</p>\n<div
+        class='twitter-button'>\n<a class='twitter-follow-button' data-show-count='false'
+        data-size='large' href='https://twitter.com/relishapp'>\nFollow @relishapp
+        on Twitter\n</a>\n<script src=\"/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js\"></script><script>\n
+        \ //<![CDATA[\n    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=\"//platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");\n
+        \ //]]>\n</script>\n</div>\n<img alt=\"Logo: Relish\" class=\"print-logo hide\"
+        height=\"26\" src=\"/assets/relish-logo-signed-in-1bd4bd17591f207eef5af0306883581c.png\"
+        width=\"89\" />\n<p class='print-credit hide'>\nPrinted from\n<a href=\"http://relishapp.com/\">www.relishapp.com</a>\n</p>\n</footer>\n</div>\n\n<script>\n
+        \ //<![CDATA[\n    yepnope([{\n      // Logical list of things we would normally
+        need\n      test : Modernizr.borderradius && Modernizr.boxshadow && Modernizr.fontface
+        && Modernizr.textshadow && Modernizr.opacity,\n      // Modernizr.load loads
+        css and javascript by default\n      nope : ['/assets/ie-f2e4472e65824036f91028bc44f31d38.css']\n
+        \   }]);\n  //]]>\n</script>\n\n\n<script>\n  //<![CDATA[\n    hljs.initHighlightingOnLoad();\n
+        \ //]]>\n</script>\n<script>\n  //<![CDATA[\n    var uservoiceOptions = {\n
+        \     key: 'relish',\n      host: 'relish.uservoice.com', \n      forum: '80797',\n
+        \     showTab: true,  \n      /* optional */\n      alignment: 'left',\n      background_color:'#50aa00',
+        \n      text_color: 'white',\n      hover_color: '#3f8500',\n      lang: 'en'\n
+        \   };\n    \n    function _loadUserVoice() {\n      var s = document.createElement('script');\n
+        \     s.setAttribute('type', 'text/javascript');\n      s.setAttribute('src',
+        (\"https:\" == document.location.protocol ? \"https://\" : \"http://\") +
+        \"cdn.uservoice.com/javascripts/widgets/tab.js\");\n      document.getElementsByTagName('head')[0].appendChild(s);\n
+        \   }\n    _loadSuper = window.onload;\n    window.onload = (typeof window.onload
+        != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice();
+        };\n  //]]>\n</script>\n\n<script>\n  //<![CDATA[\n    var _gaq = _gaq ||
+        [];\n    _gaq.push(['_setAccount', 'UA-19023769-1']);\n    _gaq.push(['_trackPageview']);\n
+        \   \n    (function() {\n      var ga = document.createElement('script');
+        ga.type = 'text/javascript'; ga.async = true;\n      ga.src = ('https:' ==
+        document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n
+        \     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+        s);\n    })();\n  //]]>\n</script>\n\n<script type=\"text/javascript\">if
+        (!NREUMQ.f) { NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar
+        e=document.createElement(\"script\");\ne.type=\"text/javascript\";\ne.src=((\"http:\"===document.location.protocol)?\"http:\":\"https:\")
+        + \"//\" +\n  \"js-agent.newrelic.com/nr-100.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nNREUMQ.a=window.onload;window.onload=NREUMQ.f;\n};\nNREUMQ.push([\"nrfj\",\"bam.nr-data.net\",\"d74923da4a\",\"553796\",\"J1tWR0ILXw5dQBwVRAteXVBEO0cNSFtQFhkXXFdE\",0,345,new
+        Date().getTime(),\"\",\"\",\"\",\"\",\"\"]);</script></body>\n</html>\n"
+    http_version: 
+  recorded_at: Sun, 29 Oct 2017 01:10:53 GMT
+recorded_with: VCR 3.0.3
